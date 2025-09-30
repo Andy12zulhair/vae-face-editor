@@ -6,8 +6,6 @@ An interactive face editor built with a Variational Autoencoder (VAE) in TensorF
 Proyek ini adalah implementasi dari Variational Autoencoder (VAE) untuk memanipulasi atribut wajah secara interaktif. Model ini dilatih pada dataset CelebA dan dapat mengubah ekspresi senyum pada gambar wajah.
 
 
-*(Tips: Unggah screenshot Anda ke repository, lalu salin link-nya ke sini)*
-
 ## ✨ Fitur
 - **Manipulasi Senyum:** Mengubah ekspresi wajah dari cemberut menjadi tersenyum menggunakan slider.
 - **Generasi Wajah:** Mampu menghasilkan wajah-wajah baru dari ruang laten.
